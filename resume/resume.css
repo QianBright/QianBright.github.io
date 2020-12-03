@@ -11,7 +11,7 @@ a{
     font-weight: bold;
 }
 .content{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 .title{
     font-size: 160%;
@@ -19,7 +19,7 @@ a{
 hr{
     height: 2px;
     border: none;
-    border-top:2px solid
+    border-top:2px solid;
 }
 .bright{
     font-weight: bold;
