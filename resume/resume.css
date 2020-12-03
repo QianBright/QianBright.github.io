@@ -1,4 +1,6 @@
-a{TEXT-DECORATION:none}
+a{
+    TEXT-DECORATION:none;
+}
 
 .head{
 	text-align: center; /*让div内部文字居中*/
