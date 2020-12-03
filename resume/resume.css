@@ -10,6 +10,9 @@ a{
     font-size: 170%;
     font-weight: bold;
 }
+.content{
+    font-family: Cambria, SimSun, “宋体”;
+}
 .title{
     font-size: 160%;
 }
