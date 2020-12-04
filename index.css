@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+a{
+    TEXT-DECORATION:none;
+}
+.container{
+    font-size: larger;
+    font-weight: bolder;
+
+    text-align: center;
+	border-radius: 20px;
+	width: 300px;
+	height: 350px;
+	margin: auto;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+#HOME{
+    font-size: 200%;
+}
